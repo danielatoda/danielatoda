@@ -2,8 +2,8 @@
 	<caption>Olá, mundo!</caption>
 	<thead>
 	<tr>
-		<th>Sou</th>
-		<th>Contatos</th>
+		<th>About me</th>
+		<th>Contact</th>
 	</tr>
 	</thead>
 	<tbody>
