@@ -19,3 +19,7 @@
 <br>
 ![Daniela Toda's Stats](https://github-readme-stats.vercel.app/api?username=danielatoda&show_icons=true&theme=synthwave)
 
+<br>
+<b>Linguagens:</b>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielatoda)](https://github.com/danielatoda/github-readme-stats)
+
