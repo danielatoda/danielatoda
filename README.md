@@ -15,17 +15,7 @@
 - 📋 <a href="http://lattes.cnpq.br/0111308357348109">Lattes</a>
 - 📩 E-mail: daniela.toda@ifro.edu.br
 
-<b>Stats:</b>
+<b>Estatísticas:</b>
 <br>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=danielatoda&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=danielatoda&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=danielatoda&show_icons=true" />
-</picture>
+![Daniela Toda's Stats](https://github-readme-stats.vercel.app/api?username=danielatoda&show_icons=true&theme=synthwave)
 
