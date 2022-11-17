@@ -2,6 +2,8 @@ Olá, mundo!
 Sou:
 - 🤗 Professora de Informática no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO
 - 📚 Membro do Grupo de Pesquisa em Soluções Tecnológicas - GOTEC
+- Mestre em Educação
+- Analista de Sistemas
 - 🤪 <s> Esquecida </s>
 - ⚡ Fun fact: não tenho fun fact, pois sou bem sem graça mesmo.
 
