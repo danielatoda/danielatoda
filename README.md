@@ -36,6 +36,6 @@
 <b>Estatísticas:</b>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielatoda&show_icons=true&theme=onedark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielatoda&layout=compact&theme=tokyonight">
+
 </div>
-![Snake animation](https://github.com/danielatoda/danielatoda/blob/output/github-contribution-grid-snake.svg)
+
