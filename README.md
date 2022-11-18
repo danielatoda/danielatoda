@@ -9,11 +9,13 @@
 	<tbody>
 	<tr>
 		<td> 🤗 Professora de Informática no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - IFRO</td>
-		<td> 📽 <a href="https://www.youtube.com/channel/UCiu-TCcFBxROXrnoJaFrI4A/featured"> Canal Toda Professora </a></td>
+		<td> <a href="https://www.youtube.com/channel/UCiu-TCcFBxROXrnoJaFrI4A/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
+		</td>
 	</tr>
 	<tr>
 		<td> 📚 Membro do Grupo de Pesquisa em Soluções Tecnológicas - GOTEC</td>
-    <td> 📩 E-mail: daniela.toda@ifro.edu.br</td>
+    		<td><a href="mailto:daniela.toda@ifro.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+		</td>
 	</tr>
 	<tr>
 		<td> 📝 Mestre em Educação</td>
@@ -21,11 +23,11 @@
 	</tr>
   <tr>
     <td> 💻 Analista de Sistemas</td>
-    <td> 📑 <a href="https://www.linkedin.com/in/daniela-toda-476818242/">Linkedin</a>
+    <td> <a href="https://www.linkedin.com/in/daniela-toda-476818242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	</tr>
   <tr>
      <td> ⚡ Fun fact: não tenho fun fact, pois sou bem sem graça mesmo.</td>
-    <td> 📸 <a href="https://www.instagram.com/toda.professora/">Instagram Toda Professora</a></td>
+    <td> <a href="https://www.instagram.com/toda.professora/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></td>
   </tr>
   </tbody>
 </table>
