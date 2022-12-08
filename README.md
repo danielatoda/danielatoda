@@ -33,7 +33,7 @@
 </table>
 
 <div>
-<img height="180em" src="https://danielatoda-git-main-danielatoda.vercel.app/api?username=danielatoda&show_icons=true&theme=onedark">
-<img height="180em" src="https://danielatoda-git-main-danielatoda.vercel.app/api/top-langs/?username=danielatoda&layout=compact&theme=tokyonight">
+<img height="180em" src="http://danielatoda.vercel.app/api?username=danielatoda&show_icons=true&theme=onedark">
+<img height="180em" src="http://danielatoda.vercel.app//api/top-langs/?username=danielatoda&layout=compact&theme=tokyonight">
 </div>
 
