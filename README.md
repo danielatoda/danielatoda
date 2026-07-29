@@ -13,7 +13,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td width="690px"> 📚 Membro do Grupo de Pesquisa em Soluções Tecnológicas - GOTEC</td>
+		<td width="690px"> 📚 Membro do Grupo de Pesquisa em Mecatrônica (IFRO) e do Grupo de Pesquisa Histórico-Cultural - HISTCULT (UNIR) </td>
     		<td><a href="mailto:daniela.toda@ifro.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 		</td>
 	</tr>
@@ -31,7 +31,3 @@
   	</tr>
   </tbody>
 </table>
-<div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielatoda&show_icons=true&theme=onedark">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielatoda&layout=compact&theme=tokyonight">
-</div>
